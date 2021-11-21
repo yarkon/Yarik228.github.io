@@ -141,7 +141,7 @@ body {
 }
 
 .aboutmain {
-    height: 600px;
+    height: 800px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -175,7 +175,7 @@ body {
 
 .about_img {
     width: 400px;
-    height: 400px;
+    height: 600px;
     border: 1px solid rgb(99, 55, 141);
 }
 
@@ -363,4 +363,9 @@ footer {
     justify-content: center;
     flex-direction: column;
     text-align: center;
+}
+
+.about_img {
+    background-image: url(1.jpg);
+    background-size: 100%;
 }
